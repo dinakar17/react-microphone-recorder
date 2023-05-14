@@ -1,3 +1,4 @@
-import RecordAudio from "./RecordAudio";
+import RecordAudio from './RecordAudio'
+import useRecorder from './useRecorder'
 
-export { RecordAudio}
+export { RecordAudio, useRecorder }
