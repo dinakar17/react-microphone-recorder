@@ -4,7 +4,7 @@ A convenient and powerful React hook and component for audio recording with cust
 
 <!-- Show `recorder-demo.gif` here -->
 
-![recorder-demo.gif](public/recorder-demo.gif)]
+![recorder-demo.gif](./public/recorder-demo.gif)
 
 ## Live Demo
 
@@ -85,7 +85,7 @@ function MyComponent() {
 }
 ```
 
-![RecordAudio](public/recorderaudiocomponent.gif)
+![RecordAudio](./public/recorderaudiocomponent.gif)
 
 > **Warning**
 > The `RecordAudio` component is styled using Tailwind CSS. It's important to note that the styles will only be correctly applied if your project is set up with Tailwind CSS. If your project does not use Tailwind CSS, the component will still function correctly, but it will not have the intended visual style.
